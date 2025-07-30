@@ -39,7 +39,7 @@ class Solution {
         int right = nums.length;
 
         while(left < right){
-            mid = (left + right) / 2
+            int mid = (left + right) / 2;
 
             if(nums[mid] > target){
                 right = mid;

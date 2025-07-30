@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../JavaLeetcodee/leetcode/editor/cn/[705]设计哈希集合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../JavaLeetcodee/leetcode/editor/cn/doc/content/[705]设计哈希集合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn705" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../JavaLeetcodee/leetcode/editor/cn/[705]设计哈希集合.java" />
+              <option name="titleSlug" value="design-hashset" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
